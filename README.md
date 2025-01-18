@@ -45,7 +45,7 @@ def coffee_break():
   - **Vector Databases** (e.g., Faiss)  
 
 - 🌟 **Always Learning**  
-  I’m constantly exploring new technologies to stay on the cutting edge of AI and development. 🚀  
+  I’m constantly exploring new technologies to stay on the cutting edge of AI and development.
 
 Feel free to explore my repos and connect with me. _**(Once my coffee timer ends)**_
 
