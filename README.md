@@ -15,10 +15,10 @@ def coffee_break():
 
 ## About Me
 
-- 🎓 **Hi, I'm Yassin!**  
+- **Hi, I'm Yassin!**  
   I'm a student at the **University of Minnesota Twin Cities**, specializing in **Data Science and AI**.
 
-- 🤖 **My Interests**  
+-  **My Interests**  
   I'm super passionate about **LLM frameworks**, **Retrieval-Augmented Generations (RAGs)**, **agents**, and all the cool innovations happening in AI!
 
 - 💻 **Backend Developer**  
@@ -43,9 +43,6 @@ def coffee_break():
   - **Relational Databases** (e.g., PostgreSQL, MySQL)  
   - **NoSQL Databases** (e.g., MongoDB)  
   - **Vector Databases** (e.g., Faiss)  
-
-- 🌟 **Always Learning**  
-  I’m constantly exploring new technologies to stay on the cutting edge of AI and development.
 
 Feel free to explore my repos and connect with me. _**(Once my coffee timer ends)**_
 
