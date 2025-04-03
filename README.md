@@ -38,7 +38,7 @@ def coffee_break():
   Interested in **spatial databases** and working with **spatial data querying, storing, and indexing** using tools like **PostGIS** and **OGIS**.
 
 - 🔍 **Information Retrieval & Storing**  
-  Skilled in leveraging different database systems for storing and querying data:
+  Skilled in using different database systems for storing and querying data:
   - **Relational Databases** (e.g., PostgreSQL, MySQL)  
   - **NoSQL Databases** (e.g., MongoDB)  
   - **Vector Databases** (e.g., Faiss)  
