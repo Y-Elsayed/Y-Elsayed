@@ -25,7 +25,6 @@ def coffee_break():
   I have experience building solid APIs and systems using:
   - **Spring Boot**  
   - **Python Flask**  
-  - **Node.js**
 
 ## Data Science
 
