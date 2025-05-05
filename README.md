@@ -28,16 +28,16 @@ def coffee_break():
 
 ## Data Science
 
-- 📊 **Exploratory Data Analysis & Data Cleaning**  
+-  **Exploratory Data Analysis & Data Cleaning**  
   Proficient in using Python libraries like **Pandas**, **NumPy**, and **Matplotlib** for uncovering insights and cleaning datasets.  
 
-- 🤖 **Machine Learning Models**  
+-  **Machine Learning Models**  
   Experience in building and tuning models for prediction, classification, and clustering tasks using libraries like **Scikit-learn** and **TensorFlow**.
 
-- 🌍 **Spatial Data Science**  
+-  **Spatial Data Science**  
   Interested in **spatial databases** and working with **spatial data querying, storing, and indexing** using tools like **PostGIS** and **OGIS**.
 
-- 🔍 **Information Retrieval & Storing**  
+-  **Information Retrieval & Storing**  
   Skilled in using different database systems for storing and querying data:
   - **Relational Databases** (e.g., PostgreSQL, MySQL)  
   - **NoSQL Databases** (e.g., MongoDB)  
