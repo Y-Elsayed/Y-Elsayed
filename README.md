@@ -16,7 +16,7 @@ def coffee_break():
 ## About Me
 
 - **Hi, I'm Yassin!**  
-  I'm a student at the **University of Minnesota Twin Cities**, specializing in **Data Science and AI**.
+  A **University of Minnesota Twin Cities** graduate, specializing in **Data Science and AI**.
 
 -  **My Interests**  
   I'm super passionate about **LLM frameworks**, **Retrieval-Augmented Generations (RAGs)**, **agents**, and all the cool innovations happening in AI!
